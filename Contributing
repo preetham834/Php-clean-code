@@ -1,0 +1,25 @@
+Advantages and Disadvantages of PHP
+
+Advantages of PHP :  
+The most important advantage of PHP is that it’s open-source and free from cost. It can be downloaded anywhere and is readily available to use for events or web applications. 
+It is platform-independent. PHP-based applications can run on any OS like UNIX, Linux, Windows, etc. 
+Applications can easily be loaded which are based on PHP and connected to the database. It’s mainly used due to its faster rate of loading over slow internet speed than other programming language. 
+It has less learning curve because it is simple and straightforward to use. Someone familiar with C programming can easily work on PHP. 
+It is more stable for a few years with the assistance of providing continuous support to various versions. 
+It helps in reusing an equivalent code and not got have to write lengthy code and sophisticated structure for events of web applications. 
+It helps in managing code easily. 
+It has powerful library support to use various function modules for data representation. 
+PHP’s built-in database connection modules help in connecting databases easily reducing trouble and time for the development of web applications and content-based sites. 
+The popularity of PHP gave rise to various communities of developers, a fraction of which may be potential candidates for hire. 
+
+Disadvantages of PHP :
+It is not that secure due to its open-source, because the ASCII text file is often easily available. 
+It is not suitable for giant content-based web applications. 
+It has a weak type, which can cause incorrect data and knowledge to users. 
+PHP frameworks got to learn to use PHP built-in functionalities to avoid writing additional code. 
+Using more features of PHP framework and tools cause poor performance of online applications. 
+PHP doesn’t allow change or modification in the core behavior of online applications. 
+The PHP frameworks aren’t equivalent in behavior so does their performance and features. 
+While PHP may be a powerful tool supported by an outsized community and plentiful reference documentation, there are easier programming languages for web apps. 
+It is widely believed by the developers that PHP features a poor quality of handling errors. PHP lacks debugging tools, which are needed to look for errors and warnings. PHP has less number of debugging tools in comparison to other programming languages. 
+It’s highly tough to manage because it’s not competent modular. It already imitates the features of the Java language.
